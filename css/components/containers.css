@@ -1,0 +1,15 @@
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.cards-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.socials-container {
+  margin-top: 4px;
+}
